@@ -3,7 +3,7 @@
 - The TAs are the best 👍
 - I can't wait to learn new stuff that I would not know without this class
 
-  ![Funny gif](https://tenor.com/ttEDHZAB3tR.gif)
+  ![Funny gif](https://media1.tenor.com/m/4PdueHWCE8kAAAAd/s.gif)
 
 
 
