@@ -2,8 +2,10 @@
 
 - The TAs are the best 👍
 - I can't wait to learn new stuff that I would not know without this class
-
-  ![Funny gif](https://media1.tenor.com/m/4PdueHWCE8kAAAAd/s.gif)
+- I get to make a bulleted list so that I get full credit
+- did I mention how good the TAs were
+- I actually learned quite a lot because i used emacs and now i use vim so thank you guys for that
+  ![why are you looking at the metadata?????](https://media1.tenor.com/m/4PdueHWCE8kAAAAd/s.gif)
 
 
 
