@@ -1,8 +1,9 @@
 # Matthew Kitchen's First CS193 Homework
 
 - The TAs are the best 👍
-- ![Funny gif](https://tenor.com/ttEDHZAB3tR.gif)
 - I can't wait to learn new stuff that I would not know without this class
+
+  ![Funny gif](https://tenor.com/ttEDHZAB3tR.gif)
 
 
 
